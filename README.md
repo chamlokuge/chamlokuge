@@ -21,7 +21,7 @@ You can reach me on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamlokuge&langs_count=8)](https://github.com/chamlokuge/github-readme-stats) 
  
-![Chamodi's github stats](https://github-readme-stats.vercel.app/api?username=chamlokuge&count_private=true&show_icons=true&theme=graywhite)
+![Chamodi's github stats](https://github-readme-stats.vercel.app/api?username=chamlokuge&count_private=true&show_icons=true&theme=buefy&hide=issues,contribs)
   
 
    
